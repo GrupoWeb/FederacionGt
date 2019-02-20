@@ -1,0 +1,9 @@
+integrados 
+
+1) 74LS08: compuerta and, la compuerta AND produce la multiplicacion logica.
+2) 74LS32: compueta or, la compuerta or produce la suma logica
+3) 74LS90: contador de decadas, contiene 4 flip flops maestro-esclavo y compuertas adicionales para proporcionar un contador 
+4) 74LS04: inversor, su salida es el estado inverso a su entrada
+5) 74LS11: conjunto de compuertas and de tres entradas 
+6) 74LS47: decodificador/controlador de BCD a siete segmentos con salida de activacion enn bajo 
+ 
